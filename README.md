@@ -20,9 +20,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FrenkyJullyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FrenkyJullyan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenkyJullyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=FrenkyJullyan&show_icons=true&theme=radical&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=FrenkyJullyan&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenkyJullyan&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FrenkyJullyan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
