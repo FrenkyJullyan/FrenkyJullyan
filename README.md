@@ -1,6 +1,6 @@
 # Hi, I'm Frenky 👋
 
-Software Engineering student with a strong interest in cybersecurity, technology, and continuous learning.  
+Software Engineering student with a strong interest in technology, and continuous learning.  
 Currently exploring web development, programming fundamentals, and system security while building practical projects and improving technical skills.
 
 ## 🚀 Interests
