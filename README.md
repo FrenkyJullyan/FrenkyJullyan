@@ -1,16 +1,31 @@
-# 💫 About Me:
-- 🎯 Aspiring **Professional Software Engineer**  
-- 💻 Currently focused on:  
-  - **Web Development**  
-  - **MySQL Database**  
-  - **Mobile Application Development**  
-- ⚡ Interests & Activities:  
-  - Exploring and experimenting with technology  
-  - Staying active through sports  
-  - Reading books to expand knowledge  
-  - Listening to music 🎶  
-  - Occasionally enjoying a game of chess ♟️  
-- 🚀 Always eager to learn and grow in both technology and personal development  
+# Hi, I'm Frenky 👋
+
+Software Engineering student with a strong interest in cybersecurity, technology, and continuous learning.  
+Currently exploring web development, programming fundamentals, and system security while building practical projects and improving technical skills.
+
+## 🚀 Interests
+- Cybersecurity
+- Software Development
+- Web Technologies
+- Aviation & Technology
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## 📚 Currently Learning
+- Front-End Development
+- Cybersecurity Fundamentals
+- Problem Solving & Logic Building
+
+## 🎯 Goals
+- Gain international work experience
+- Continue growing in the technology field
+- Build impactful and useful projects
+
+> “La calma es la fuerza que se oculta tras cada tormenta.”
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekayjull.57) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@jullyan68) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2425293.frenky@smkn-2sbg.sch.id) 
