@@ -4,7 +4,6 @@ Software Engineering student with a strong interest in cybersecurity, technology
 Currently exploring web development, programming fundamentals, and system security while building practical projects and improving technical skills.
 
 ## 🚀 Interests
-- Cybersecurity
 - Software Development
 - Web Technologies
 - Aviation & Technology
@@ -17,7 +16,6 @@ Currently exploring web development, programming fundamentals, and system securi
 
 ## 📚 Currently Learning
 - Front-End Development
-- Cybersecurity Fundamentals
 - Problem Solving & Logic Building
 
 ## 🎯 Goals
